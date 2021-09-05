@@ -1,0 +1,47 @@
+body{
+    background-color: #6F3529;
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    background-color: #AB5C4B;
+    color: white;
+}
+#start, #number_of_objects, #status{
+    font-size: 18px;
+}
+.copy-right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0px;
+    width: 100%;
+    background-color: #AB5C4B;
+    line-height: 3;
+    text-align: center;
+    font-size: 18px;
+}
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px white;
+}
+#label_object_name{
+    font-size: 18px;
+    font-weight: bolder;
+    color: white;
+}
+#text_input{
+    border-radius: 90px;
+    border-width: 10px;
+    width: 500px;
+    border-color: #AB5C4B;
+}
+#start{
+    background-color: #AB5C4B;
+    color: white;
+}
+#instruction{
+    font-size: 15px;
+}
